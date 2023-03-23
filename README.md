@@ -1,4 +1,4 @@
-#Text Summarization using Pegasus
+## Text Summarization using Pegasus
 
 This is a project that utilizes Pegasus to perform text summarization. The aim of this project is to provide a user-friendly interface for text summarization using advanced natural language processing techniques.
 Introduction
